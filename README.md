@@ -1,19 +1,12 @@
-### Hi there 👋
+### Hello, Fellow Developers! 👋
+#### 🌐 About Me
+I'm a passionate Ruby developer with a knack for crafting elegant and efficient code. Ruby has been my go-to language for years, and I love exploring its potential in various applications. 🚀
 
-<!--
-**tobiasz-p/tobiasz-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠️ Skills
+Ruby/Rails Expertise: With extensive experience in Ruby and Rails, I've developed a range of applications from simple scripts to complex web apps.
+Testing and TDD: Proficient in RSpec, Capybara, and other testing frameworks. Big believer in Test-Driven Development.
+Front-end Technologies: Proficient in JavaScript, HTML5, and CSS3. I enjoy making user-friendly interfaces.
+DevOps and Cloud Services: Experienced in AWS, Docker, and CI/CD pipelines, ensuring smooth deployment and scalability.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![tobiasz-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobiasz-p&hide=stars&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
+#### 🎉 Fun Fact
+As a hobby, I delve into psychology, particularly cognitive science. Understanding how our brains work fascinates me and influences how I approach problem-solving in coding. It's all about patterns and processes! 🧠💡
